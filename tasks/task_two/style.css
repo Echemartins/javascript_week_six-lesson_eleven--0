@@ -10,12 +10,12 @@ body {
   }
   
   .container {
+    border-radius: 30px;
     height: 400px;
     width: 600px;
     max-width: 600px;
     margin:auto auto;
-    background-color: rgb(27, 27, 103)
-;
+    background-color: rgb(27, 27, 103);
     padding: 20px;
     box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
   }
