@@ -1,0 +1,33 @@
+body {
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: blue;
+  }
+  
+  .container {
+    height: 400px;
+    width: 600px;
+    max-width: 600px;
+    margin:auto auto;
+    background-color: rgb(27, 27, 103)
+;
+    padding: 20px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
+  }
+  
+  h1 {
+    text-align: center;
+  }
+  
+  p {
+    margin: 10px 0;
+  }
+  
+  #locationInfo {
+    display: none;
+  }
